@@ -13,9 +13,9 @@
 		$ pip install flask
 		$ pip install flask-sqlalchemy
 	- If you don't have pip installed go ahead and install it.
-	- Now setup your database.
-	- Install SQLite3 on your machine
-	- In the app.py on line 6, make sure to well reference you database.
+	- Now setup your database by installing SQLite3 on your machine
+	- Download the database blog.db
+	- In the app.py on line 6, make sure to give the correct path to blog.db database.
 	- Open the terminal, navigate to the repository and run the application with:
 		$ python app.py
 	- If the application runs successfully then you will have no error on the terminal
